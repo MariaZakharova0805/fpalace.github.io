@@ -1,4 +1,4 @@
-<p>Landing page layout for <a href="https://daniilshat.ru/" target="_blank">food_palace.com</p> 
+<h3>Landing page layout for food_palace.com </h3> 
   
 <a href="https://mariazakharova0805.github.io/fpalace.github.io/" target="_blank">https://mariazakharova0805.github.io/fpalace.github.io/ </a> 
 
