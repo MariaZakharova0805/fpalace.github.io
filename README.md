@@ -1,2 +1,1 @@
-﻿# fpalace.github.io
-https://MariaZakharova0808.github.io/fpalace.github.io/
+https://mariazakharova0805.github.io/fpalace.github.io/
